@@ -1,9 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/836ec390-88ad-40bf-9319-7e5bc5ab508a/deploy-status)](https://app.netlify.com/sites/spectrum-themes/deploys) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 [![Topic: Gatsby](https://img.shields.io/badge/Topic-Gatsby-purple.svg)](https://www.gatsbyjs.org)
 
-# Spectrum website
+# [Spectrum website](https://spectrum-themes.netlify.app)
 
-This repo contains the source for [spectrum website]() ↗️
+This repo contains the source for [spectrum website](https://spectrum-themes.netlify.app) ↗️
 
 ## Local development
 
