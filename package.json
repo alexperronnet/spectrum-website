@@ -1,0 +1,33 @@
+{
+  "name": "spectrum-website",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Alex Perronnet",
+    "email": "alex@alexperronnet.io",
+    "url": "https://alexperronnet.io"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.47",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sass": "^2.3.12",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "tailwindcss": "^1.7.3",
+    "typeface-roboto": "0.0.75",
+    "typeface-roboto-mono": "0.0.75"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexperronnet/spectrum-website"
+  }
+}
