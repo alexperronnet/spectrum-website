@@ -17,7 +17,7 @@
     "react-helmet": "^6.1.0",
     "tailwindcss": "^1.7.3",
     "typeface-roboto": "0.0.75",
-    "typeface-roboto-mono": "0.0.75"
+    "typeface-roboto-mono": "1.1.13"
   },
   "scripts": {
     "build": "gatsby build",
