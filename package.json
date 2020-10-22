@@ -16,7 +16,7 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "tailwindcss": "^1.7.3",
-    "typeface-roboto": "0.0.75",
+    "typeface-roboto": "1.1.13",
     "typeface-roboto-mono": "0.0.75"
   },
   "scripts": {
